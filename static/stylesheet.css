@@ -1,0 +1,13 @@
+#navbar {
+    background-color: blueviolet;
+    position: -webkit-sticky;
+    top: 2px;
+    right: 16px;
+}
+
+#mainpanel{
+    position: absolute;
+    top: 20px;
+    right: 30%;
+    left:30%;
+}

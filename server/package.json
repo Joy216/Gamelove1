@@ -1,0 +1,29 @@
+{
+"name":"Gamelove1",
+"version" :"1.0.0",  
+"description": "Game love site",
+"main": "index.js",
+ "scripts":{
+"start":"node index.js",
+"test":"echo\"Error:no test specified\"&& exit 1"
+ },
+"repository": {
+    "type":"git",
+    "url":"git+https://github.com/usevalue/Gamelove1.git"
+
+},
+"keywords": [
+"game",
+"gamescenario",
+"lovers",
+"Maniac",
+
+],
+"author": "Taekyung Oum",
+"license":"GPL-3.0",
+"bugs":{
+    "url":"https://github.com/usevalue/Gamelove1/issues"
+
+},
+"homepage": "https://github.com/usevalue/Gamelove1#readme"
+}
